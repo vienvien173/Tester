@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2026-03-10T13:53:17 GMT+07:00" name="Surefire suite" finished-at="2026-03-10T13:53:23 GMT+07:00" duration-ms="6550">
+    <groups>
+    </groups>
+    <test started-at="2026-03-10T13:53:17 GMT+07:00" name="Surefire test" finished-at="2026-03-10T13:53:23 GMT+07:00" duration-ms="6550">
+      <class name="dtm.Test1">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:dtm.Test1@2145433b]" started-at="2026-03-10T13:53:17 GMT+07:00" name="setUp" finished-at="2026-03-10T13:53:19 GMT+07:00" duration-ms="2339" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="testLoginFormDisplayed()[pri:0, instance:dtm.Test1@2145433b]" started-at="2026-03-10T13:53:19 GMT+07:00" name="testLoginFormDisplayed" description="Kiem thu form dang nhap co hien thi hay khong" finished-at="2026-03-10T13:53:19 GMT+07:00" duration-ms="76" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLoginFormDisplayed -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:dtm.Test1@2145433b]" started-at="2026-03-10T13:53:19 GMT+07:00" name="tearDown" finished-at="2026-03-10T13:53:19 GMT+07:00" duration-ms="114" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:dtm.Test1@2145433b]" started-at="2026-03-10T13:53:19 GMT+07:00" name="setUp" finished-at="2026-03-10T13:53:20 GMT+07:00" duration-ms="1158" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="testPageSource()[pri:0, instance:dtm.Test1@2145433b]" started-at="2026-03-10T13:53:20 GMT+07:00" name="testPageSource" description="Kiem thu page source co chua noi dung dang nhap" finished-at="2026-03-10T13:53:20 GMT+07:00" duration-ms="14" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testPageSource -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:dtm.Test1@2145433b]" started-at="2026-03-10T13:53:20 GMT+07:00" name="tearDown" finished-at="2026-03-10T13:53:20 GMT+07:00" duration-ms="149" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:dtm.Test1@2145433b]" started-at="2026-03-10T13:53:20 GMT+07:00" name="setUp" finished-at="2026-03-10T13:53:22 GMT+07:00" duration-ms="1148" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="testTitle()[pri:0, instance:dtm.Test1@2145433b]" started-at="2026-03-10T13:53:22 GMT+07:00" name="testTitle" description="Kiem thu tieu de trang chu" finished-at="2026-03-10T13:53:22 GMT+07:00" duration-ms="8" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testTitle -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:dtm.Test1@2145433b]" started-at="2026-03-10T13:53:22 GMT+07:00" name="tearDown" finished-at="2026-03-10T13:53:22 GMT+07:00" duration-ms="156" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:dtm.Test1@2145433b]" started-at="2026-03-10T13:53:22 GMT+07:00" name="setUp" finished-at="2026-03-10T13:53:23 GMT+07:00" duration-ms="1179" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="testURL()[pri:0, instance:dtm.Test1@2145433b]" started-at="2026-03-10T13:53:23 GMT+07:00" name="testURL" description="Kiem thu URL trang chu" finished-at="2026-03-10T13:53:23 GMT+07:00" duration-ms="12" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testURL -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:dtm.Test1@2145433b]" started-at="2026-03-10T13:53:23 GMT+07:00" name="tearDown" finished-at="2026-03-10T13:53:23 GMT+07:00" duration-ms="173" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- dtm.Test1 -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>
