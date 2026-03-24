@@ -1,8 +1,9 @@
 <!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
 <suite name="Bai1Suite">
-    <test name="TitleTest">
+    <test name="AllTests">
         <classes>
-            <class name="dtm.Test1"/>
+<!--            <class name="dtm.Test1"/>-->
+            <class name="dtm.LoginTest"/>
         </classes>
     </test>
 </suite>
